@@ -1,0 +1,350 @@
+body {
+    font-family: 'Segoe UI', '맑은 고딕', sans-serif;
+    background-color: #f2f4f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.form-card {
+    background-color: #fff;
+    padding: 35px 40px;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+    width: 360px;
+    max-width: 90%;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 24px;
+    color: #333;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 18px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+input[type="submit"],
+.btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #007BFF;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+input[type="submit"]:hover,
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.error {
+    color: #d9534f;
+    margin-bottom: 10px;
+}1~body {
+    font-family: 'Segoe UI', '맑은 고딕', sans-serif;
+    background-color: #f2f4f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.form-card {
+    background-color: #fff;
+    padding: 35px 40px;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+    width: 360px;
+    max-width: 90%;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 24px;
+    color: #333;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 18px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+input[type="submit"],
+.btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #007BFF;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+input[type="submit"]:hover,
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.error {
+    color: #d9534f;
+    margin-bottom: 10px;
+}1~body {
+    font-family: 'Segoe UI', '맑은 고딕', sans-serif;
+    background-color: #f2f4f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.form-card {
+    background-color: #fff;
+    padding: 35px 40px;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+    width: 360px;
+    max-width: 90%;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 24px;
+    color: #333;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 18px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+input[type="submit"],
+.btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #007BFF;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+input[type="submit"]:hover,
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.error {
+    color: #d9534f;
+    margin-bottom: 10px;
+}1~≈≈xbody {
+    font-family: 'Segoe UI', '맑은 고딕', sans-serif;
+    background-color: #f2f4f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.form-card {
+    background-color: #fff;
+    padding: 35px 40px;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+    width: 360px;
+    max-width: 90%;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 24px;
+    color: #333;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 18px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+input[type="submit"],
+.btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #007BFF;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+input[type="submit"]:hover,
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.error {
+    color: #d9534f;
+    margin-bottom: 10px;
+}1~
+
+
+mdknmenfwf
+
+
+
+body {
+    font-family: 'Segoe UI', '맑은 고딕', sans-serif;
+    background-color: #f2f4f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.form-card {
+    background-color: #fff;
+    padding: 35px 40px;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+    width: 360px;
+    max-width: 90%;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 24px;
+    color: #333;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 18px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+input[type="submit"],
+.btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #007BFF;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+input[type="submit"]:hover,
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.error {
+    color: #d9534f;
+    margin-bottom: 10px;
+}1~body {
+    font-family: 'Segoe UI', '맑은 고딕', sans-serif;
+    background-color: #f2f4f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.form-card {
+    background-color: #fff;
+    padding: 35px 40px;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+    width: 360px;
+    max-width: 90%;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 24px;
+    color: #333;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 18px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+}
+
+input[type="submit"],
+.btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #007BFF;
+    color: white;
+    font-size: 15px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+input[type="submit"]:hover,
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.error {
+    color: #d9534f;
+    margin-bottom: 10px;
+}
